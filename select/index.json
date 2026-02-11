@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Extra terrestrial Biological Entities",
+  "base_artist": "EGOIST",
+  "createdAt": "2026-02-11T15:47:06.497917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Extra terrestrial Biological Entities",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/01_Extra_terrestrial_Biological_Entities_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Extra terrestrial Biological Entities",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/02_Extra_terrestrial_Biological_Entities_EGOIST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Extra terrestrial Biological Entities",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_Extra_terrestrial_Biological_Entities_EGOIST.txt"
+    }
+  ]
+}
